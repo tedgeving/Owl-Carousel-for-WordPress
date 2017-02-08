@@ -13,11 +13,11 @@ Nothing Fancy here, this plugin enqueues all of the scripts required to use Owl 
 
 ###  Installation
 
-1. Upload the `owl-carousel` folder to the `/wp-content/plugins/` directory
+- Upload the `owl-carousel` folder to the `/wp-content/plugins/` directory
 
-2. Activate the plugin through the 'Plugins' menu in WordPress
+- Activate the plugin through the 'Plugins' menu in WordPress
 
-3. Set up your HTML
+- Set up your HTML
 
 ```
 <!-- Set up your HTML -->
@@ -32,7 +32,7 @@ Nothing Fancy here, this plugin enqueues all of the scripts required to use Owl 
 </div>
 ```
 
-4. Call the plugin.
+- Call the plugin.
 
 ```
 $(document).ready(function(){
